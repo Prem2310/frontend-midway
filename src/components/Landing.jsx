@@ -29,8 +29,8 @@ export default function Landing() {
                             }}
                         >
                             <span>One Middleware to connect them all</span>
-                            <Typist.Backspace count={50} delay={380} />
-                            <span>One Middleware to rule them all</span>
+                            <Typist.Backspace count={17} delay={150} />
+                            <span> rule them all</span>
                             <Typist.Backspace count={50} delay={380} />
                             <span>Connecting GraphQL to REST</span>
                             <Typist.Backspace count={50} delay={380} />
