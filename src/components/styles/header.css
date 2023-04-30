@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Inconsolata:wght@700;800&display=swap");
+
+.hero {
+    font-family: "Inconsolata", monospace;
+    font-weight: 800;
+}
+
+.middle-div {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+}
+
+.button-section {
+    font-family: "Inconsolata", sans-serif;
+    font-weight: 800;
+}
